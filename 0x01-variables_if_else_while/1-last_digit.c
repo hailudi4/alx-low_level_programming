@@ -1,12 +1,14 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - main fuction to generate a random number
  *
  * Return: Always 0 (success)
  *
  */
+
 int main(void)
 {
 	int n;
