@@ -1,12 +1,16 @@
 #include "main.h"
 
 /**
- * 
- *
- * Return: Always (success) 0;
+ * print_alphabet_x10 - print all alphabet in lowercase
  */
-int main(void)
+
+void print_alphabet_x10(void);
 {
-	print_alphabet_x10();
-	return (0);
+	char letter;
+
+	for (num = 'a'; num <= num 10)
+		_putchar(num);
+
+	_putchar('\n')
+
 }
